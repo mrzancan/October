@@ -1,0 +1,7 @@
+com\mzancan\october\TestConversionValues.class
+com\mzancan\october\ILogging.class
+com\mzancan\october\ReceiptDetail.class
+com\mzancan\october\TaxedBasketItem.class
+com\mzancan\october\ReceiptHelper.class
+com\mzancan\october\BasicLogger.class
+com\mzancan\october\AbstractBasketItem.class
